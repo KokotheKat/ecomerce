@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Camiseta Básica",
+      "description": "Camiseta de algodón 100% de alta calidad, disponible en varios colores.",
+      "price": 19.99,
+      "category": "Ropa",
+      "images": [
+        "https://example.com/images/camiseta-basica-1.jpg",
+        "https://example.com/images/camiseta-basica-2.jpg"
+      ],
+      "stock": 120
+    },
+    {
+      "id": 2,
+      "name": "Pantalones Vaqueros",
+      "description": "Pantalones vaqueros ajustados con diseño clásico.",
+      "price": 49.99,
+      "category": "Ropa",
+      "images": [
+        "https://example.com/images/pantalones-vaqueros-1.jpg",
+        "https://example.com/images/pantalones-vaqueros-2.jpg"
+      ],
+      "stock": 85
+    },
+    {
+      "id": 3,
+      "name": "Zapatillas Deportivas",
+      "description": "Zapatillas deportivas cómodas y duraderas para uso diario.",
+      "price": 59.99,
+      "category": "Calzado",
+      "images": [
+        "https://example.com/images/zapatillas-deportivas-1.jpg",
+        "https://example.com/images/zapatillas-deportivas-2.jpg"
+      ],
+      "stock": 150
+    },
+    {
+      "id": 4,
+      "name": "Bolso de Mano",
+      "description": "Elegante bolso de mano de cuero con múltiples compartimentos.",
+      "price": 79.99,
+      "category": "Accesorios",
+      "images": [
+        "https://example.com/images/bolso-de-mano-1.jpg",
+        "https://example.com/images/bolso-de-mano-2.jpg"
+      ],
+      "stock": 60
+    },
+    {
+      "id": 5,
+      "name": "Reloj de Pulsera",
+      "description": "Reloj de pulsera con correa de acero inoxidable y resistencia al agua.",
+      "price": 129.99,
+      "category": "Accesorios",
+      "images": [
+        "https://example.com/images/reloj-de-pulsera-1.jpg",
+        "https://example.com/images/reloj-de-pulsera-2.jpg"
+      ],
+      "stock": 45
+    }
+  ]
+  
